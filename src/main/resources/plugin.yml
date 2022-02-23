@@ -1,0 +1,11 @@
+name: SpawnSet
+version: '${project.version}'
+main: ua.limefu.me.spawnset.SpawnSet
+authors: [ LimeFu ]
+commands:
+  spawn:
+    description: TP to spawn
+  setspawn:
+    description: spawn set
+  rspawn:
+    description: Reload plugin

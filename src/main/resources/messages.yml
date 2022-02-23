@@ -1,0 +1,6 @@
+messages:
+  spawn: "TP to spawn"
+  spawnset: "Set spawnPoint"
+  pleasewait: "Please wait {1} seconds"
+  permissions: "No permission"
+  canceled: "TP is canceled"
